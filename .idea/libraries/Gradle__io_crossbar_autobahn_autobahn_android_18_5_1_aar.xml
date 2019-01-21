@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.crossbar.autobahn:autobahn-android:18.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/autobahn-android-18.5.1.aar/553ba94a3f7a00b060962887dd852176/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/autobahn-android-18.5.1.aar/553ba94a3f7a00b060962887dd852176/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.crossbar.autobahn/autobahn-android/18.5.1/a5b92ec7ffee67641681dc5264c70ed9108da74b/autobahn-android-18.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
